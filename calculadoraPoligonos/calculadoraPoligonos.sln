@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadoraPoligonos", "calculadoraPoligonos.csproj", "{CA304646-4DA3-499F-8739-74C4D5B5C7D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA304646-4DA3-499F-8739-74C4D5B5C7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA304646-4DA3-499F-8739-74C4D5B5C7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA304646-4DA3-499F-8739-74C4D5B5C7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA304646-4DA3-499F-8739-74C4D5B5C7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49B00279-BB32-4FD1-8786-2A6CB22D441A}
+	EndGlobalSection
+EndGlobal

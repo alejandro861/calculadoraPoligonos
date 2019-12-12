@@ -1,0 +1,8 @@
+D:\Progra II\calculadoraPoligonos\calculadoraPoligonos\bin\Debug\calculadoraPoligonos.exe.config
+D:\Progra II\calculadoraPoligonos\calculadoraPoligonos\bin\Debug\calculadoraPoligonos.exe
+D:\Progra II\calculadoraPoligonos\calculadoraPoligonos\bin\Debug\calculadoraPoligonos.pdb
+D:\Progra II\calculadoraPoligonos\calculadoraPoligonos\obj\Debug\calculadoraPoligonos.csprojAssemblyReference.cache
+D:\Progra II\calculadoraPoligonos\calculadoraPoligonos\obj\Debug\calculadoraPoligonos.Properties.Resources.resources
+D:\Progra II\calculadoraPoligonos\calculadoraPoligonos\obj\Debug\calculadoraPoligonos.csproj.GenerateResource.cache
+D:\Progra II\calculadoraPoligonos\calculadoraPoligonos\obj\Debug\calculadoraPoligonos.exe
+D:\Progra II\calculadoraPoligonos\calculadoraPoligonos\obj\Debug\calculadoraPoligonos.pdb
